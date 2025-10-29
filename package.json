@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-backend",
+  "version": "1.0.0",
+  "description": "proyecto uno",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardozoismael/proyect-backend.git"
+  },
+  "author": "ismael cardozo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardozoismael/proyect-backend/issues"
+  },
+  "homepage": "https://github.com/cardozoismael/proyect-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
